@@ -6,7 +6,7 @@ import Map from './component/Map';
 
 const Home = () => {
   return (
-    <div>
+    <div className="w-full max-w-screen overflow-hidden">
       <Header />
       <Map />
       <Body/>
