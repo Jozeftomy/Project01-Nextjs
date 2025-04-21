@@ -5,7 +5,7 @@ export default function Footer() {
             Copyright © 2024 Sustainable Mindz. All Rights Reserved.
         </div> 
         <div className="w-[133px] h-[36px]  text-white flex items-center justify-center rounded-md">
-          <img src="/images/icons.png" alt="Footer Icon" className="w-full h-full object-contain" />
+          <img src="/images/Icons.png" alt="Footer Icon" className="w-full h-full object-contain" />
         </div>
       </footer>
     );
