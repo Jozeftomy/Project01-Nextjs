@@ -16,7 +16,7 @@ export default function Header() {
       </div>
  
       <div className="absolute w-[511.59px] h-[472.40px] top-[481px] left-[464px]">
-      <img src="/images/group.png" alt="Group Image" className="w-full h-full object-cover" />
+      <img src="/images/Group.png" alt="Group Image" className="w-full h-full object-cover" />
       </div>
     </header>
   );
