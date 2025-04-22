@@ -2,7 +2,7 @@ import ContactUs from "./Contact";
 
 export default function Body() {
     return (
-      <section className="mt-10 w-full flex flex-col items-center px-4">
+      <section className="mt-100 w-full flex flex-col items-center px-4">
         <div className="w-full text-center text-[#333333] font-['Arial'] font-bold text-xl md:text-[39px] leading-[100%] tracking-[0%] capitalize">
           Platform Benefits
         </div>
