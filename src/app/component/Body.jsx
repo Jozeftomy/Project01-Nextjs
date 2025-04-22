@@ -4,7 +4,7 @@ import ContactUs from "./Contact";
 
 export default function Body() {
     return (
-      <section className="mt-50">
+      <section className="mt-50 w-full">
       <div className="absolute w-[324px] h-[45px] top-[1074px] left-[558px] font-['Arial'] font-bold text-[39px] leading-[100%] tracking-[0%] capitalize">
       Platform Benefits
       </div>
