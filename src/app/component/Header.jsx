@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="w-[1440px] h-[768px] flex justify-between items-center p-4 bg-[url('/images/background.png')] bg-cover bg-center shadow-md relative">
+    <header className="w-full h-[768px] flex justify-between items-center p-4 bg-[url('/images/background.png')] bg-cover bg-center shadow-md relative">
       <img src="/images/logo.png" alt="Logo" className="absolute w-[246px] h-[87px] top-[40px] left-[120px]" />
       <button className="bg-white text-[#682475] px-4 py-2 rounded-[22.5px] w-[214px] h-[45px] absolute top-[61px] left-[1106px]">
         Request Proposals

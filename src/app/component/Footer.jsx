@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-      <footer className="absolute w-[1440px] h-[68px] top-[3378px] bg-[url('/images/background.png')] bg-cover bg-center text-white flex items-center justify-between px-12">
+      <footer className="absolute w-full h-[68px] top-[3378px] bg-[url('/images/background.png')] bg-cover bg-center text-white flex items-center justify-between px-12">
         <div className="w-[388px] h-[17px] text-[#333333] text-[15px] font-normal leading-[100%] tracking-normal font-[Arial]">
             Copyright © 2024 Sustainable Mindz. All Rights Reserved.
         </div> 
