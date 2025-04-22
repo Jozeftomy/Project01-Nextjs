@@ -35,7 +35,7 @@ export default function Body() {
                 Content Management
               </div>
             </div>
-            <img src="images/Designimage.png" alt="Description" className="w-[300px] md:w-[450px] h-auto object-contain mt-6 md:mt-0" />
+            <img src="images/DesignImage.png" alt="Description" className="w-[300px] md:w-[450px] h-auto object-contain mt-6 md:mt-0" />
           </div>
           <p className="text-[#333333] text-center text-sm md:text-[17px] leading-[30px] px-4">
             We strategize, script, and produce content apt for your product or service. Get the best in post-production services from us.
