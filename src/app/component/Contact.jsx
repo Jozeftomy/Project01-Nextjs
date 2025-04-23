@@ -4,7 +4,7 @@ const ContactUs = () => {
   return (
     <div className="flex flex-col md:flex-row items-center justify-between p-6 bg-white">
       <div className="w-full md:w-1/2">
-        <h2 className="font-[Arial] font-normal text-[20px] leading-[30px] tracking-[0%]">Contact Us</h2>
+
         <h3 className="text-xl font-semibold mb-4">Get In Touch With Us Now</h3>
         <div className="flex items-center mb-4">
           <div className="flex items-center mr-6">
